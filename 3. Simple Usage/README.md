@@ -1,20 +1,20 @@
+## Contoh Penggunaan Go-Lang sederhana
 
----
+Berikut ini adalah program sederhana “Hello, World!” di Go:
 
-# Penggunaan Sederhana
+```go
+package main
 
-**README.md**
+import "fmt"
 
-```markdown
-# Penggunaan Sederhana
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+Untuk menjalankan program, simpan ke file bernama `main.go` dan jalankan perintah berikut di terminal Anda:
+```sh
+go run main.go
+```
+Jika berhasil, maka akan menampilkan output seperti berikut:
 
-## Membuat Hello World
-1. Buat file `hello.go`:
-   ```go
-   package main
-
-   import "fmt"
-
-   func main() {
-       fmt.Println("Hello, World!")
-   }
+![alt text](3.png)

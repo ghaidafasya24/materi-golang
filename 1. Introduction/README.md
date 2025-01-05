@@ -1,7 +1,7 @@
 # Pengenalan Go (Golang)
 
 ## Pengertian
-Go (atau Golang) adalah bahasa pemrograman open-source yang dikembangkan oleh Google. Dirancang untuk kecepatan, efisiensi, dan kemudahan dalam pengembangan perangkat lunak modern.
+Go, yang juga dikenal sebagai Golang, adalah bahasa pemrograman open-source yang dikembangkan oleh Google. Go dirancang untuk memberikan kemudahan dalam pengembangan perangkat lunak dengan fokus pada performa tinggi dan kemudahan penggunaan. Salah satu fitur utamanya adalah concurrency, yang memungkinkan program menjalankan beberapa tugas secara bersamaan.
 
 ## Fitur Utama Go
 1. **Kompilasi Cepat**: Berbasis bahasa kompilasi dengan kecepatan yang signifikan.

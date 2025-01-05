@@ -1,7 +1,8 @@
-## 2. Instalasi Go
+## 2. Instalasi GoLang
 
+Untuk menginstal GoLang, ikuti langkah-langkah berikut:
 1. **Unduh Go:**
-   - Kunjungi [golang.org/dl](https://golang.org/dl).
+   - Kunjungi penginstall Go [disini](https://golang.org/dl).
    - Pilih versi sesuai OS Anda (Windows, macOS, Linux).
 
 2. **Instal:**
@@ -9,6 +10,7 @@
    - Tambahkan Go ke `PATH` sistem Anda.
 
 3. **Verifikasi Instalasi:**
-   Jalankan perintah berikut di terminal:
+
+   Setelah instalasi selesai, Anda bisa memverifikasi apakah Go telah terpasang dengan benar melalui terminal/command prompt dengan perintah:
    ```bash
    go version

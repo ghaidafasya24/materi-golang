@@ -1,12 +1,6 @@
+## Sintaks Dasar: Variabel dan Tipe Data
 
----
-
-### **4. Sintaks Dasar: Variabel dan Tipe Data**
-
-**README.md**
-
-```markdown
-# Sintaks Dasar: Variabel dan Tipe Data
+Berikut ini adalah program sederhana untuk variabel dan tipe data di Go:
 
 ## Variabel
 - **Deklarasi Biasa**: Menggunakan `var`.
@@ -14,5 +8,5 @@
 
 Contoh:
 ```go
-var nama string = "John"
-umur := 25
+var nama string = "Budi"
+umur := 20

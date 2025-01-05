@@ -1,7 +1,7 @@
 
 ---
 
-### **3. Penggunaan Sederhana**
+# Penggunaan Sederhana
 
 **README.md**
 

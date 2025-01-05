@@ -7,7 +7,9 @@ Untuk menginstal GoLang, ikuti langkah-langkah berikut:
 
 2. **Instal:**
    - Ikuti petunjuk instalasi yang tersedia.
-   - Tambahkan Go ke `PATH` sistem Anda.
+
+3. **Tambahkan ke PATH**:
+   - Pastikan direktori Go (`bin`) ada di variabel `PATH`.
 
 3. **Verifikasi Instalasi:**
 

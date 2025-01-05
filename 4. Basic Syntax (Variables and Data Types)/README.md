@@ -1,6 +1,6 @@
 ## Sintaks Dasar: Variabel dan Tipe Data
 
-Berikut ini adalah program sederhana untuk variabel dan tipe data di Go:
+Berikut ini adalah program sederhana untuk mendeklarasikan variabel dan tipe data di Go:
 
 ## Variabel
 - **Deklarasi Biasa**: Menggunakan `var`.

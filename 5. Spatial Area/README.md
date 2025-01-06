@@ -1,6 +1,6 @@
-## Sintaks Dasar: Variabel dan Tipe Data
+## Arithmetic
 
-Berikut ini adalah program sederhana untuk mendeklarasikan variabel dan tipe data di Go:
+Berikut ini adalah program sederhana untuk membuat luas bangun datar di Go:
 
 ## Variabel
 - **Deklarasi Biasa**: Menggunakan `var`.

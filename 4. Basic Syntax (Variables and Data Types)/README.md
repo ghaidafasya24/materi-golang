@@ -17,7 +17,7 @@ umur := 20
 - **Floating-point**: `float32`, `float64`
 - **Boolean**: `bool`
 
-#### String
+#### 1. String
 Berikut merupakan contoh penggunaan dari String
 ```go
 package main
@@ -44,7 +44,7 @@ func main() {
  
 ![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20string.png?token=GHSAT0AAAAAACYXD3NP7LOYJ4COTFFSYQZKZ337JQQ)
 
-#### Integer
+#### 2. Integer
 Berikut merupakan contoh penggunaan dari Integer
  ```go
 package main
@@ -73,7 +73,34 @@ func main() {
  
 ![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20int.png?token=GHSAT0AAAAAACYXD3NOBPILUAOU5IUMVLLIZ337SIQ)
 
-#### Boolean
+#### 3. Floating-poin
+Berikut merupakan contoh penggunaan dari Float
+```go
+package main
+
+import "fmt"
+
+func main() {
+    // Deklarasi Floating-point
+    var pi float32 = 3.14159   // Floating-point 32-bit
+    var gravity float64 = 9.81 // Floating-point 64-bit
+
+    // Output
+    fmt.Printf("Pi: %.2f\nGravity: %.2f\n", pi, gravity)
+
+    // Operasi Matematika
+    radius := 5.0
+    area := pi * float32(radius*radius) // Konversi tipe data
+    fmt.Printf("Area of circle: %.2f\n", area)
+
+    // Pembagian Floating-point
+    result := gravity / 2
+    fmt.Printf("Gravity / 2: %.2f\n", result)
+}
+```
+
+
+#### 4. Boolean
 Berikut merupakan contoh penggunaan dari Boolean
 ```go
 package main

@@ -10,3 +10,9 @@ Contoh:
 ```go
 var nama string = "Budi"
 umur := 20
+```
+## Tipe Data 
+- **String**: `string`
+- **Integer**: `int`, `int8`, `int16`, `int32`, `int64`
+- **Floating-point**: `float32`, `float64`
+- **Boolean**: `bool`

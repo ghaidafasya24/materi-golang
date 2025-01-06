@@ -98,7 +98,7 @@ func main() {
     fmt.Printf("Gravity / 2: %.2f\n", result)
 }
 ```
-
+Output:
 
 #### 4. Boolean
 Berikut merupakan contoh penggunaan dari Boolean

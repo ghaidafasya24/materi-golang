@@ -41,6 +41,8 @@ func main() {
 }
 ```
  Output:
+ 
+![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20string.png?token=GHSAT0AAAAAACYXD3NP7LOYJ4COTFFSYQZKZ337JQQ)
 
 #### Integer
 Berikut merupakan contoh penggunaan dari Integer
@@ -67,6 +69,10 @@ func main() {
     fmt.Println("Modulus (age %% 7):", age%7)
 }
 ```
+ Output:
+ 
+![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20int.png?token=GHSAT0AAAAAACYXD3NOBPILUAOU5IUMVLLIZ337SIQ)
+
 #### Boolean
 Berikut merupakan contoh penggunaan dari Boolean
 ```go
@@ -80,3 +86,5 @@ func main() {
 }
 ```
 Output:
+ 
+![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20bool.png?token=GHSAT0AAAAAACYXD3NOJJMFZ3SCN56AZZXKZ337TZQ)

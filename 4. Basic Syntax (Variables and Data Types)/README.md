@@ -100,6 +100,8 @@ func main() {
 ```
 Output:
 
+![alt text](https://github.com/ghaidafasya24/img/blob/main/penggunaan%20float.png?raw=true)
+
 #### 4. Boolean
 Berikut merupakan contoh penggunaan dari Boolean
 ```go

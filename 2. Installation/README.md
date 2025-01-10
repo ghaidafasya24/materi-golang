@@ -19,3 +19,4 @@ Untuk menginstal GoLang, ikuti langkah-langkah berikut:
    ```
 
    Jika sudah terpasang, maka akan menampilkan seperti ini:
+   ![alt text](https://github.com/ghaidafasya24/img/blob/main/2.png?raw=true)

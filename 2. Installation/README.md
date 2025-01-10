@@ -4,6 +4,7 @@ Untuk menginstal GoLang, ikuti langkah-langkah berikut:
 1. **Unduh Go:**
    - Kunjungi penginstall Go [disini](https://golang.org/dl).
    - Pilih versi sesuai OS Anda (Windows, macOS, Linux).
+      ![alt text](https://github.com/ghaidafasya24/img/blob/main/1.png?raw=true)
 
 2. **Instal:**
    - Ikuti petunjuk instalasi yang tersedia.

@@ -16,3 +16,6 @@ Untuk menginstal GoLang, ikuti langkah-langkah berikut:
    Setelah instalasi selesai, Anda bisa memverifikasi apakah Go telah terpasang dengan benar melalui terminal/command prompt dengan perintah:
    ```bash
    go version
+   ```
+
+   Jika sudah terpasang, maka akan menampilkan seperti ini:

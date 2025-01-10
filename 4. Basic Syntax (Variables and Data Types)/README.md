@@ -42,7 +42,7 @@ func main() {
 ```
  Output:
  
-![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20string.png?token=GHSAT0AAAAAACYXD3NP7LOYJ4COTFFSYQZKZ337JQQ)
+![alt text](https://github.com/ghaidafasya24/img/blob/main/penggunaan%20string.png?raw=true)
 
 #### 2. Integer
 Berikut merupakan contoh penggunaan dari Integer
@@ -71,7 +71,7 @@ func main() {
 ```
  Output:
  
-![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20int.png?token=GHSAT0AAAAAACYXD3NOBPILUAOU5IUMVLLIZ337SIQ)
+![alt text](https://github.com/ghaidafasya24/img/blob/main/penggunaan_int.png?raw=true)
 
 #### 3. Floating-poin
 Berikut merupakan contoh penggunaan dari Float
@@ -114,4 +114,4 @@ func main() {
 ```
 Output:
  
-![alt text](https://raw.githubusercontent.com/ghaidafasya24/img/refs/heads/main/penggunaan%20bool.png?token=GHSAT0AAAAAACYXD3NOJJMFZ3SCN56AZZXKZ337TZQ)
+![alt text](https://github.com/ghaidafasya24/img/blob/main/penggunaan%20bool.png?raw=true)

@@ -17,4 +17,4 @@ go run main.go
 ```
 Jika berhasil, maka akan menampilkan output seperti berikut:
 
-![alt text](3.png)
+![alt text](https://github.com/ghaidafasya24/img/blob/main/3.png?raw=true)

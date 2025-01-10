@@ -62,9 +62,14 @@ func main() {
 
 Output:
 
+Kita masukkan panjang sisinya terlebih dahulu, sebagai contoh:
+
 ![alt text](https://github.com/ghaidafasya24/img/blob/main/persegi1.png?raw=true)
 
+Berikut merupakan hasil dari luas persegi:
+
 ![alt text](https://github.com/ghaidafasya24/img/blob/main/persegi2.png?raw=true)
+
 
 ### 2. Luas Persegi Panjang
 
@@ -90,9 +95,14 @@ func main() {
 
 Output:
 
+Kita masukan terlebih dahulu panjang dan lebarnya, sebagai contoh:
+
 ![alt text](https://github.com/ghaidafasya24/img/blob/main/persegipanjang1.png?raw=true)
 
+Berikut merupakan luas persegi panjangnya:
+
 ![alt text](https://github.com/ghaidafasya24/img/blob/main/persegipanjang2.png?raw=true)
+
 
 ### 3. Luas Lingkaran
 
